@@ -1,0 +1,6 @@
+{
+  "author": "Jökull Sólberg",
+  "default_date_format": "%B %e, %Y",
+  "with_future_dates": true,
+  "google_analytics": "UA-12216753-12"
+}
